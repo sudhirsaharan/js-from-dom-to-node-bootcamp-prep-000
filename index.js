@@ -1,4 +1,7 @@
 // write your code below!
-console.log("helloworld");
-
-
+if(name=="susan"){
+  console.log("the names is correct");
+}
+else {
+  console.log{"expected the name to be susan"}
+}
